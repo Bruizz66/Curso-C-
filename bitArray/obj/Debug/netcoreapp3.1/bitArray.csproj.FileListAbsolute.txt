@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\arrayList\bitArray\bin\Debug\netcoreapp3.1\bitArray.exe
+C:\Users\DELL\source\repos\arrayList\bitArray\bin\Debug\netcoreapp3.1\bitArray.deps.json
+C:\Users\DELL\source\repos\arrayList\bitArray\bin\Debug\netcoreapp3.1\bitArray.runtimeconfig.json
+C:\Users\DELL\source\repos\arrayList\bitArray\bin\Debug\netcoreapp3.1\bitArray.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\arrayList\bitArray\bin\Debug\netcoreapp3.1\bitArray.dll
+C:\Users\DELL\source\repos\arrayList\bitArray\bin\Debug\netcoreapp3.1\bitArray.pdb
+C:\Users\DELL\source\repos\arrayList\bitArray\obj\Debug\netcoreapp3.1\bitArray.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\arrayList\bitArray\obj\Debug\netcoreapp3.1\bitArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\arrayList\bitArray\obj\Debug\netcoreapp3.1\bitArray.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\arrayList\bitArray\obj\Debug\netcoreapp3.1\bitArray.AssemblyInfo.cs
+C:\Users\DELL\source\repos\arrayList\bitArray\obj\Debug\netcoreapp3.1\bitArray.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\arrayList\bitArray\obj\Debug\netcoreapp3.1\bitArray.dll
+C:\Users\DELL\source\repos\arrayList\bitArray\obj\Debug\netcoreapp3.1\bitArray.pdb
+C:\Users\DELL\source\repos\arrayList\bitArray\obj\Debug\netcoreapp3.1\bitArray.genruntimeconfig.cache

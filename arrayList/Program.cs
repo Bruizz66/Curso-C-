@@ -7,6 +7,9 @@ namespace arrayList
     {
         static void Main(string[] args)
         {
+            int vrb1 = 0;
+            string vrb2 = "";
+
             // Se inicializa el arrayList
             ArrayList palabras = new ArrayList();
             // Se agregan valores uno por uno
@@ -39,6 +42,14 @@ namespace arrayList
             Console.WriteLine("Valores: ");
             PrintValues(palabras);
 
+            Console.WriteLine("");
+            Console.WriteLine("-------------");
+
+            //Esto se llama type cast par apasar de tipo object al tipo deseado
+            vrb1 = (int) palabras[8];
+            vrb2 = (string) palabras[1];
+            Console.WriteLine("vrb1 = {0}, vrb2 = {1}", vrb1, vrb2);
+
 
         }
 
@@ -50,6 +61,7 @@ namespace arrayList
 
         }
 
+        
 
 
 
