@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.exe
+C:\Users\DELL\source\repos\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.deps.json
+C:\Users\DELL\source\repos\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.runtimeconfig.json
+C:\Users\DELL\source\repos\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.dll
+C:\Users\DELL\source\repos\arrayList\arrayList\bin\Debug\netcoreapp3.1\arrayList.pdb
+C:\Users\DELL\source\repos\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.AssemblyInfo.cs
+C:\Users\DELL\source\repos\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.dll
+C:\Users\DELL\source\repos\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.pdb
+C:\Users\DELL\source\repos\arrayList\arrayList\obj\Debug\netcoreapp3.1\arrayList.genruntimeconfig.cache
